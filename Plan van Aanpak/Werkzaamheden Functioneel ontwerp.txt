@@ -1,0 +1,27 @@
+Functioneel Ontwerp Document
+
+
+1. - Design, requirements - functioneel en niet functioneel
+
+2. - Functioneel ontwerp (compleet)
+	
+3. - Technisch ontwerp
+	- Sequence diagram van belangrijkste processen
+	- logische view -> class diagram hoe zit het framework in elkaar, welke klassen horen bij het framework en welke bij het spel 
+
+4. - Requirements (alles nummeren zodat er gerefereerd kan worden)
+
+5. - MOSCOW  ( Must have, could have, should have, want have)
+
+6. - Ontwerp interface (hoe ziet de interface eruit)
+
+7. - Klassendiagram 
+
+8. - Use cases/UML waarbij de server ook als actor fungeert
+
+9. - Standaard documentatie-meuk
+
+
+Mocht ik nog iets vergeten zijn, dan hoor ik dat graag!
+
+-XxX- De Meester.
