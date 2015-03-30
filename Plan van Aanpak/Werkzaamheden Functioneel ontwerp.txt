@@ -15,12 +15,23 @@ Functioneel Ontwerp Document
 
 6. - Ontwerp interface (hoe ziet de interface eruit)
 
-7. - Klassendiagram 
-
+7. - Klassendiagram SWAG
 8. - Use cases/UML waarbij de server ook als actor fungeert
 
 9. - Standaard documentatie-meuk
 
+Wouter:
+Nummer 4 en 5
+
+Rafael:
+
+Kas:
+6 en 7
+Arunan:
+1 en 8
+
+Tom:
+2 en 9
 
 Mocht ik nog iets vergeten zijn, dan hoor ik dat graag!
 
